@@ -27,6 +27,26 @@ export function serverApi(req, res) {
 }
 
 
+// Pages API
+
+export function getPages(req, res) {
+  let key = USER_ID + '/getpages';
+  let cache = fakeDemoRedisCache.get(key);
+  if (cache !== undefined) {
+    console.log('/getpages return from cache');
+    return res.json(cache);
+  }
+  console.log('/getpages cache miss, invoking fake db call');
+
+  fakeDataBase.getPages()
+    .then(data => {
+      fakeDemoRedisCache.set(key, data);
+      return data;
+    })
+    .then(data => res.json(data));
+
+}
+
 // todo API
 
 var COUNT = 4;

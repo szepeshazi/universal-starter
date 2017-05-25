@@ -1,27 +1,29 @@
-import { NgModule } from '@angular/core';
-import { FormsModule } from '@angular/forms';
+import {NgModule} from '@angular/core';
+import {FormsModule} from '@angular/forms';
 
-import { HomeModule } from './+home/home.module';
-import { AboutModule } from './+about/about.module';
-import { TodoModule } from './+todo/todo.module';
+import {HomeModule} from './+home/home.module';
+import {AboutModule} from './+about/about.module';
+import {TodoModule} from './+todo/todo.module';
+import {PageModule} from './+page/page.module';
 
-import { SharedModule } from './shared/shared.module';
+import {SharedModule} from './shared/shared.module';
 
-import { AppRoutingModule } from './app-routing.module';
-import { AppComponent, XLargeDirective } from './app.component';
+import {AppRoutingModule} from './app-routing.module';
+import {AppComponent, XLargeDirective} from './app.component';
 
 
 @NgModule({
-  declarations: [ AppComponent, XLargeDirective ],
+  declarations: [AppComponent, XLargeDirective],
   imports: [
     SharedModule,
     HomeModule,
     AboutModule,
     TodoModule,
+    PageModule,
     AppRoutingModule
   ]
 })
 export class AppModule {
 }
 
-export { AppComponent } from './app.component';
+export {AppComponent} from './app.component';

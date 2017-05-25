@@ -11,7 +11,7 @@ export const fakeDataBase = {
         {
           id: 1,
           title: 'Such wow',
-          imageUrl: 'https://pbs.twimg.com/profile_images/378800000822867536/3f5a00acf72df93528b6bb7cd0a4fd0c.jpeg',
+          imageUrl: 'https://pbs.twimg.com/profile_images/582992433404731393/KPQajYDu.png',
           teaser: '<p>oh my lorem! wow. much ipsum. very doge, so consectetur! such amet! such text, very swag! want full, yes master</p>',
           body: `<h4 id="mcetoc_1bgva70ht0">Need dolor</h4>
             <p>wow! <strong>want layout</strong>. much full. very word! want lorem, yes master doge! much adipiscing! many design! many text, wow. rate me! wow, go full! i can haz swag! wow. very design. very doge, oh my ipsum! very doge, very design. i iz cute?. much sit, wow! oh my aenean, many text, go swag! such word, i can haz swag! much ipsum. very layout, oh my aenean, yes master doge! plz text. such amet! go full! plz lorem! yes master doge. wow. wow! so consectetur! wow! i iz cute?! many mattis, yes master doge, much ipsum. such amet! want layout.</p>
@@ -27,7 +27,7 @@ export const fakeDataBase = {
         {
           id: 2,
           title: 'Much master',
-          imageUrl: 'https://rlv.zcache.com/hello_yes_this_is_doge_classic_round_sticker-r9d5e4e2625ce4b6e8ff30df2745236bd_v9waf_8byvr_324.jpg',
+          imageUrl: 'https://pbs.twimg.com/profile_images/429121054364037121/2HBr4_HX_reasonably_small.png',
           teaser: '<p>very swag! want full, yes master my lorem! wow. much ipsum. very doge, so consectetur! such amet! such text,</p>',
           body: `<h4 id="mcetoc_1bgva70ht0">Need dolor</h4>
             <p>wow! <strong>want layout</strong>. much full. very word! want lorem, yes master doge! much adipiscing! many design! many text, wow. rate me! wow, go full! i can haz swag! wow. very design. very doge, oh my ipsum! very doge, very design. i iz cute?. much sit, wow! oh my aenean, many text, go swag! such word, i can haz swag! much ipsum. very layout, oh my aenean, yes master doge! plz text. such amet! go full! plz lorem! yes master doge. wow. wow! so consectetur! wow! i iz cute?! many mattis, yes master doge, much ipsum. such amet! want layout.</p>
@@ -43,7 +43,7 @@ export const fakeDataBase = {
         {
           id: 3,
           title: 'Wow very swag',
-          imageUrl: 'https://i.ytimg.com/vi/rZurdcLO0GU/hqdefault.jpg',
+          imageUrl: 'https://p.memecdn.com/avatars/s_309172_555098d9d9a2c.jpg',
           teaser: '<p>wow, go full! i can haz swag! wow. very design. very doge, oh my ipsum! very doge</p>',
           body: `<h4 id="mcetoc_1bgva70ht0">Need dolor</h4>
             <p>wow! <strong>want layout</strong>. much full. very word! want lorem, yes master doge! much adipiscing! many design! many text, wow. rate me! wow, go full! i can haz swag! wow. very design. very doge, oh my ipsum! very doge, very design. i iz cute?. much sit, wow! oh my aenean, many text, go swag! such word, i can haz swag! much ipsum. very layout, oh my aenean, yes master doge! plz text. such amet! go full! plz lorem! yes master doge. wow. wow! so consectetur! wow! i iz cute?! many mattis, yes master doge, much ipsum. such amet! want layout.</p>

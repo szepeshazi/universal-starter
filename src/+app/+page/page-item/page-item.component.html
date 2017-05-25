@@ -1,0 +1,10 @@
+<div *ngIf="view=='teaser'" class="page-wrapper">
+  <div class="title">{{ entity.title }}</div>
+  <img [src]="entity.imageUrl"/>
+  <div class="teaser" [innerHtml]="entity.teaser"></div>
+</div>
+<div *ngIf="view=='full'" class="page-wrapper">
+  <div class="title">{{ entity.title }}</div>
+  <img [src]="entity.imageUrl"/>
+  <div class="body" [innerHtml]="entity.body"></div>
+</div>

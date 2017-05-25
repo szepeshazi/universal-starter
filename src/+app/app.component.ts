@@ -40,6 +40,7 @@ export class XLargeDirective {
     <a routerLinkActive="router-link-active" routerLink="home">Home</a>
     <a routerLinkActive="router-link-active" routerLink="about">About</a>
     <a routerLinkActive="router-link-active" routerLink="todo">Todo</a>
+    <a routerLinkActive="router-link-active" routerLink="pages">Pages</a>
     <a routerLinkActive="router-link-active" routerLink="lazy">Lazy</a>
   </nav>
   <div class="hero-universal">
@@ -62,5 +63,5 @@ export class XLargeDirective {
   `
 })
 export class AppComponent {
-  title = 'ftw';
+  title = 'look such live, but universal!';
 }
