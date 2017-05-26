@@ -1,0 +1,21 @@
+div.page-wrapper-teaser {
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  margin: 16px;
+}
+
+div.page-wrapper-teaser div.header {
+  display: flex;
+}
+
+div.title {
+  font-size: 1.2em;
+  padding: 5px 0px 0px 10px;
+}
+
+img.icon-small {
+  width: 32px;
+  height: 32px;
+  border-radius: 16px;
+}

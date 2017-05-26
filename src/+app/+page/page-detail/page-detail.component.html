@@ -1,0 +1,9 @@
+<div *ngIf="entity!=null" class="page-wrapper">
+  <div class="header">
+    <img class="icon-small" [src]="entity.imageUrl"/>
+    <div class="title">{{ entity.title }}</div>
+  </div>
+  <div class="teaser" [innerHtml]="entity.teaser | safeHtml"></div>
+  <hr>
+  <div class="body" [innerHtml]="entity.body | safeHtml"></div>
+</div>

@@ -37,7 +37,7 @@ export const fakeDataBase = {
             <li>very design</li>
             </ul>
             <p><br />yes master doge. wow. much full. such amet! much sit, oh my lorem! wow. much ipsum. very doge, so consectetur! such amet! such text, very swag! want full, yes master doge! wow! very layout, very design. such layout, very design. oh my aenean, wow, want full, go full! wow! go swag! plz text. oh my ipsum! want lorem, such elit! i can haz swag! much doge. go swag! such word, very doge, very swag! want lorem, very swag! plz lorem! so ipsum! plz text. much doge. go swag! i can haz swag! go full! many design! oh my aenean, such word, much doge. much full.&nbsp;</p>
-            <p><iframe src="https://player.vimeo.com/video/85372402" width="640" height="290" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+            <p><iframe width="854" height="480" src="https://www.youtube.com/embed/G8QCRTsed9U" frameborder="0" allowfullscreen></iframe></p>
             <p>&nbsp;</p>`
         },
         {
@@ -53,7 +53,7 @@ export const fakeDataBase = {
             <li>very design</li>
             </ul>
             <p><br />yes master doge. wow. much full. such amet! much sit, oh my lorem! wow. much ipsum. very doge, so consectetur! such amet! such text, very swag! want full, yes master doge! wow! very layout, very design. such layout, very design. oh my aenean, wow, want full, go full! wow! go swag! plz text. oh my ipsum! want lorem, such elit! i can haz swag! much doge. go swag! such word, very doge, very swag! want lorem, very swag! plz lorem! so ipsum! plz text. much doge. go swag! i can haz swag! go full! many design! oh my aenean, such word, much doge. much full.&nbsp;</p>
-            <p><iframe src="https://player.vimeo.com/video/85372402" width="640" height="290" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+            <p><iframe width="854" height="480" src="https://www.youtube.com/embed/I6BZYNS_u18" frameborder="0" allowfullscreen></iframe></p>
             <p>&nbsp;</p>`
         },
       ]

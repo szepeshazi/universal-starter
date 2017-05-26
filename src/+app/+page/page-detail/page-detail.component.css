@@ -1,0 +1,15 @@
+div.page-wrapper {
+  width: 800px;
+  display: flex;
+  flex-direction: column;
+  margin: 16px;
+}
+
+div.page-wrapper div.header {
+  display: flex;
+}
+
+div.title {
+  font-size: 1.2em;
+  padding: 5px 0px 0px 10px;
+}

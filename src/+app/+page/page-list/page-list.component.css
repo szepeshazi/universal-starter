@@ -1,0 +1,6 @@
+div.flex-container {
+  display: flex;
+  margin: 12px;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}

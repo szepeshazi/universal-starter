@@ -4,6 +4,7 @@ import {Page} from "../page.model";
 
 @Component({
   templateUrl: './page-list.component.html',
+  styleUrls: ['./page-list.component.css']
 })
 export class PageListComponent implements OnInit {
 
@@ -16,7 +17,6 @@ export class PageListComponent implements OnInit {
     this.modelService.get('/getpages').subscribe(
       pagesJson => {
         this.pages = pagesJson.data.map(page => Object.assign(new Page(), page));
-        console.log(this.pages);
       }
     );
   }
